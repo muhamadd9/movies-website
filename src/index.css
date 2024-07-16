@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.swiper-pagination-bullet {
+    background: #fff; /* Change bullet color */
+    padding: 7px;
+    top: 100%;
+    position: absolute;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background: red; 
+  }
+  
+  .swiper-button-next, .swiper-button-prev {
+    color: #fff; 
+    transition: all;
+    transition-duration: 0.3s;
+  }
+  .swiper-button-next:hover, .swiper-button-prev:hover {
+    color: red;
+  }
+  .swiper-button-next::after, .swiper-button-prev::after {
+    font-size: 30px;   
+  }
+  
+
+  ::-webkit-scrollbar {
+    width: 8px; /* Adjust scrollbar width */
+}
+
+::-webkit-scrollbar-track {
+    background: #141414 ;
+}
+
+::-webkit-scrollbar-thumb {
+    background: red ;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000; /* Darker shade on hover */
+}
+
+/* Firefox scrollbar styles */
+/* * {
+    scrollbar-width: thin;
+    scrollbar-color: red red;
+} */
