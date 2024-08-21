@@ -6,7 +6,7 @@ This project is a comprehensive movie discovery platform designed to offer users
 ## Technologies
 The following technologies were used in the development of this project:
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap v5.3, React.js
+- **Frontend**: HTML5, CSS3, JavaScript, Tailwind CSS, React.js
 - **Backend**: Consumed the TMDB API that provides all the project functionality [Here](https://www.themoviedb.org/documentation/api)
 - **Version Control**: Git, GitHub
 
