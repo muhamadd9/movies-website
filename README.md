@@ -30,3 +30,12 @@ Follow these steps to run the project:
 - Run these commands in the project directory respectively:
   - `npm install`
   - `npm start`
+
+
+
+
+## ScreenShots From the project:
+
+![img](/src/assets/1.png)
+![img](/src/assets/2.png)
+![img](/src/assets/3.jpeg)
